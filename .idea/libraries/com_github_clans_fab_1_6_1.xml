@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.clans:fab-1.6.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/fab-1.6.1.aar/333dd4f7c706a48cbb9b17c803c79b60/res" />
+      <root url="jar://$USER_HOME$/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/fab-1.6.1.aar/333dd4f7c706a48cbb9b17c803c79b60/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/gradle-4.2.1/caches/modules-2/files-2.1/com.github.clans/fab/1.6.1/261bfd3357e39d1268ca20fae575fa1fb1abe3b0/fab-1.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

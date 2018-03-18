@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Android_Apps/RuntimePermissions/app/build/intermediates/res/merged/androidTest/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/fab-1.6.1.aar/333dd4f7c706a48cbb9b17c803c79b60/res/values/values.xml",
+                    "from": {
+                        "startLines": "6,7,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "3717,3762,3809,4002",
+                        "endColumns": "44,46,47,38",
+                        "endOffsets": "3757,3804,3852,4036"
+                    },
+                    "to": {
+                        "startLines": "17,18,19,20",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "4448,4493,4540,4588",
+                        "endColumns": "44,46,47,38",
+                        "endOffsets": "4488,4535,4583,4622"
+                    }
+                },
+                {
+                    "source": "/Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/cam2-0.2.3.aar/f4b4eec94c3f5d0d707c48539bf52eb4/res/values/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,12,13,14,15,16,17,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "185,241,305,363,429,487,683,756,824,888,956,1023,1218,1262",
+                        "endColumns": "55,63,57,65,57,65,72,67,63,67,66,63,43,53",
+                        "endOffsets": "236,300,358,424,482,548,751,819,883,951,1018,1082,1257,1311"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,11,12,13,14,15,16,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,111,175,233,299,357,4044,4117,4185,4249,4317,4384,4627,4671",
+                        "endColumns": "55,63,57,65,57,65,72,67,63,67,66,63,43,53",
+                        "endOffsets": "106,170,228,294,352,418,4112,4180,4244,4312,4379,4443,4666,4720"
+                    }
+                }
+            ]
+        }
+    ]
+}

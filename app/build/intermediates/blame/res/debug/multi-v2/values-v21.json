@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Android_Apps/RuntimePermissions/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "map": [
+                {
+                    "source": "/Android_Apps/RuntimePermissions/app/src/main/res/values-v21/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "53",
+                        "endLines": "6",
+                        "endColumns": "10",
+                        "endOffsets": "339"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "10",
+                        "endOffsets": "341"
+                    }
+                }
+            ]
+        }
+    ]
+}

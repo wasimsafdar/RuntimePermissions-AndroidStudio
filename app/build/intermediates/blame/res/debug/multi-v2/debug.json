@@ -1,0 +1,137 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Android_Apps/RuntimePermissions/app/build/intermediates/res/merged/debug/values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "/Android_Apps/RuntimePermissions/app/src/main/res/values-v21/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "53",
+                        "endLines": "6",
+                        "endColumns": "10",
+                        "endOffsets": "339"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "10",
+                        "endOffsets": "341"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Android_Apps/RuntimePermissions/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Android_Apps/RuntimePermissions/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "53,93",
+                        "endColumns": "39,45",
+                        "endOffsets": "90,136"
+                    },
+                    "to": {
+                        "startLines": "22,25",
+                        "startColumns": "4,4",
+                        "startOffsets": "4662,4796",
+                        "endColumns": "41,47",
+                        "endOffsets": "4699,4839"
+                    }
+                },
+                {
+                    "source": "/Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/fab-1.6.1.aar/333dd4f7c706a48cbb9b17c803c79b60/res/values/values.xml",
+                    "from": {
+                        "startLines": "6,7,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "3717,3762,3809,4002",
+                        "endColumns": "44,46,47,38",
+                        "endOffsets": "3757,3804,3852,4036"
+                    },
+                    "to": {
+                        "startLines": "23,24,26,27",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "4704,4749,4844,4892",
+                        "endColumns": "44,46,47,38",
+                        "endOffsets": "4744,4791,4887,4926"
+                    }
+                },
+                {
+                    "source": "/Android_Apps/RuntimePermissions/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,5,3,6,7,4",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,230,112,309,454,169",
+                        "endColumns": "56,78,56,144,144,60",
+                        "endOffsets": "107,304,164,449,594,225"
+                    },
+                    "to": {
+                        "startLines": "28,31,32,33,34,35",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "4931,5086,5165,5222,5367,5512",
+                        "endColumns": "56,78,56,144,144,60",
+                        "endOffsets": "4983,5160,5217,5362,5507,5568"
+                    }
+                },
+                {
+                    "source": "/Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/cam2-0.2.3.aar/f4b4eec94c3f5d0d707c48539bf52eb4/res/values/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,12,13,14,15,16,17,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "185,241,305,363,429,487,683,756,824,888,956,1023,1218,1262",
+                        "endColumns": "55,63,57,65,57,65,72,67,63,67,66,63,43,53",
+                        "endOffsets": "236,300,358,424,482,548,751,819,883,951,1018,1082,1257,1311"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,16,17,18,19,20,21,29,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "96,152,216,274,340,398,4258,4331,4399,4463,4531,4598,4988,5032",
+                        "endColumns": "55,63,57,65,57,65,72,67,63,67,66,63,43,53",
+                        "endOffsets": "147,211,269,335,393,459,4326,4394,4458,4526,4593,4657,5027,5081"
+                    }
+                },
+                {
+                    "source": "/Android_Apps/RuntimePermissions/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "53",
+                        "endLines": "3",
+                        "endColumns": "10",
+                        "endOffsets": "148"
+                    },
+                    "to": {
+                        "startLines": "36",
+                        "startColumns": "4",
+                        "startOffsets": "5573",
+                        "endLines": "37",
+                        "endColumns": "10",
+                        "endOffsets": "5668"
+                    }
+                },
+                {
+                    "source": "/Android_Apps/RuntimePermissions/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "4,5,6,2,3",
+                        "startColumns": "2,2,2,2,2",
+                        "startOffsets": "138,177,213,53,93",
+                        "endColumns": "38,35,43,39,44",
+                        "endOffsets": "174,210,254,90,135"
+                    },
+                    "to": {
+                        "startLines": "2,9,10,11,12",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,464,502,548,590",
+                        "endColumns": "40,37,45,41,46",
+                        "endOffsets": "91,497,543,585,632"
+                    }
+                }
+            ]
+        }
+    ]
+}

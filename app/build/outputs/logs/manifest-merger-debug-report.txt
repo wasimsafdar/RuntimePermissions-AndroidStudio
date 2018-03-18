@@ -1,0 +1,145 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [com.commonsware.cwac:cam2:0.2.3] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/cam2-0.2.3.aar/f4b4eec94c3f5d0d707c48539bf52eb4/AndroidManifest.xml:2:1-31:12
+MERGED from [com.githang:com-phillipcalvin-iconbutton:1.0.1] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/com-phillipcalvin-iconbutton-1.0.1.aar/c7452d51679fd2bce4810c114221967d/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-compat:25.3.0] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/58f7fcc8eec85a2d138da7ca5529e9c7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.github.clans:fab:1.6.1] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/fab-1.6.1.aar/333dd4f7c706a48cbb9b17c803c79b60/AndroidManifest.xml:2:1-14:12
+INJECTED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml:3:3-49
+	android:versionName
+		ADDED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml:6:3-28
+		INJECTED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml
+		INJECTED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml:4:3-61
+	android:versionCode
+		ADDED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml:5:3-26
+		INJECTED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml
+		INJECTED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml:8:3-13:35
+	android:largeScreens
+		ADDED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml:10:5-32
+	android:smallScreens
+		ADDED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml:12:5-32
+	android:normalScreens
+		ADDED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml:11:5-33
+	android:xlargeScreens
+		ADDED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml:13:5-33
+	android:anyDensity
+		ADDED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml:9:5-30
+application
+ADDED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml:15:3-29:17
+MERGED from [com.commonsware.cwac:cam2:0.2.3] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/cam2-0.2.3.aar/f4b4eec94c3f5d0d707c48539bf52eb4/AndroidManifest.xml:26:5-29:19
+MERGED from [com.commonsware.cwac:cam2:0.2.3] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/cam2-0.2.3.aar/f4b4eec94c3f5d0d707c48539bf52eb4/AndroidManifest.xml:26:5-29:19
+MERGED from [com.githang:com-phillipcalvin-iconbutton:1.0.1] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/com-phillipcalvin-iconbutton-1.0.1.aar/c7452d51679fd2bce4810c114221967d/AndroidManifest.xml:11:5-20
+MERGED from [com.githang:com-phillipcalvin-iconbutton:1.0.1] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/com-phillipcalvin-iconbutton-1.0.1.aar/c7452d51679fd2bce4810c114221967d/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/58f7fcc8eec85a2d138da7ca5529e9c7/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/58f7fcc8eec85a2d138da7ca5529e9c7/AndroidManifest.xml:29:5-20
+MERGED from [com.github.clans:fab:1.6.1] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/fab-1.6.1.aar/333dd4f7c706a48cbb9b17c803c79b60/AndroidManifest.xml:12:5-20
+MERGED from [com.github.clans:fab:1.6.1] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/fab-1.6.1.aar/333dd4f7c706a48cbb9b17c803c79b60/AndroidManifest.xml:12:5-20
+	android:label
+		ADDED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml:18:5-37
+	android:icon
+		ADDED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml:17:5-41
+	android:allowBackup
+		ADDED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml:16:5-32
+	android:theme
+		ADDED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml:19:5-42
+activity#dk.humma.android.permissions.runtime.MainActivity
+ADDED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml:20:5-28:16
+	android:label
+		ADDED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml:22:7-39
+	android:name
+		ADDED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml:21:7-71
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml:23:7-27:23
+action#android.intent.action.MAIN
+ADDED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml:24:9-60
+	android:name
+		ADDED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml:24:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml:26:9-68
+	android:name
+		ADDED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml:26:19-66
+uses-sdk
+INJECTED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml
+INJECTED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml
+MERGED from [com.commonsware.cwac:cam2:0.2.3] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/cam2-0.2.3.aar/f4b4eec94c3f5d0d707c48539bf52eb4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.commonsware.cwac:cam2:0.2.3] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/cam2-0.2.3.aar/f4b4eec94c3f5d0d707c48539bf52eb4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.githang:com-phillipcalvin-iconbutton:1.0.1] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/com-phillipcalvin-iconbutton-1.0.1.aar/c7452d51679fd2bce4810c114221967d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.githang:com-phillipcalvin-iconbutton:1.0.1] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/com-phillipcalvin-iconbutton-1.0.1.aar/c7452d51679fd2bce4810c114221967d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-compat:25.3.0] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/58f7fcc8eec85a2d138da7ca5529e9c7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/58f7fcc8eec85a2d138da7ca5529e9c7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.github.clans:fab:1.6.1] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/fab-1.6.1.aar/333dd4f7c706a48cbb9b17c803c79b60/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.1] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/fab-1.6.1.aar/333dd4f7c706a48cbb9b17c803c79b60/AndroidManifest.xml:8:5-10:41
+INJECTED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml
+INJECTED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-compat:25.3.0] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/58f7fcc8eec85a2d138da7ca5529e9c7/AndroidManifest.xml:23:9-55
+	android:targetSdkVersion
+		INJECTED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml
+		ADDED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml
+		INJECTED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml
+		ADDED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml
+		INJECTED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [com.commonsware.cwac:cam2:0.2.3] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/cam2-0.2.3.aar/f4b4eec94c3f5d0d707c48539bf52eb4/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [com.commonsware.cwac:cam2:0.2.3] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/cam2-0.2.3.aar/f4b4eec94c3f5d0d707c48539bf52eb4/AndroidManifest.xml:9:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.commonsware.cwac:cam2:0.2.3] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/cam2-0.2.3.aar/f4b4eec94c3f5d0d707c48539bf52eb4/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [com.commonsware.cwac:cam2:0.2.3] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/cam2-0.2.3.aar/f4b4eec94c3f5d0d707c48539bf52eb4/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [com.commonsware.cwac:cam2:0.2.3] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/cam2-0.2.3.aar/f4b4eec94c3f5d0d707c48539bf52eb4/AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from [com.commonsware.cwac:cam2:0.2.3] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/cam2-0.2.3.aar/f4b4eec94c3f5d0d707c48539bf52eb4/AndroidManifest.xml:11:22-68
+uses-feature#android.hardware.camera
+ADDED from [com.commonsware.cwac:cam2:0.2.3] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/cam2-0.2.3.aar/f4b4eec94c3f5d0d707c48539bf52eb4/AndroidManifest.xml:13:5-15:35
+	android:required
+		ADDED from [com.commonsware.cwac:cam2:0.2.3] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/cam2-0.2.3.aar/f4b4eec94c3f5d0d707c48539bf52eb4/AndroidManifest.xml:15:9-32
+	android:name
+		ADDED from [com.commonsware.cwac:cam2:0.2.3] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/cam2-0.2.3.aar/f4b4eec94c3f5d0d707c48539bf52eb4/AndroidManifest.xml:14:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.commonsware.cwac:cam2:0.2.3] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/cam2-0.2.3.aar/f4b4eec94c3f5d0d707c48539bf52eb4/AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from [com.commonsware.cwac:cam2:0.2.3] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/cam2-0.2.3.aar/f4b4eec94c3f5d0d707c48539bf52eb4/AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from [com.commonsware.cwac:cam2:0.2.3] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/cam2-0.2.3.aar/f4b4eec94c3f5d0d707c48539bf52eb4/AndroidManifest.xml:17:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.commonsware.cwac:cam2:0.2.3] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/cam2-0.2.3.aar/f4b4eec94c3f5d0d707c48539bf52eb4/AndroidManifest.xml:19:5-21:36
+	android:required
+		ADDED from [com.commonsware.cwac:cam2:0.2.3] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/cam2-0.2.3.aar/f4b4eec94c3f5d0d707c48539bf52eb4/AndroidManifest.xml:21:9-33
+	android:name
+		ADDED from [com.commonsware.cwac:cam2:0.2.3] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/cam2-0.2.3.aar/f4b4eec94c3f5d0d707c48539bf52eb4/AndroidManifest.xml:20:9-57
+uses-feature#android.hardware.microphone
+ADDED from [com.commonsware.cwac:cam2:0.2.3] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/cam2-0.2.3.aar/f4b4eec94c3f5d0d707c48539bf52eb4/AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from [com.commonsware.cwac:cam2:0.2.3] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/cam2-0.2.3.aar/f4b4eec94c3f5d0d707c48539bf52eb4/AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from [com.commonsware.cwac:cam2:0.2.3] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/cam2-0.2.3.aar/f4b4eec94c3f5d0d707c48539bf52eb4/AndroidManifest.xml:23:9-51
+activity#com.commonsware.cwac.cam2.CameraActivity
+ADDED from [com.commonsware.cwac:cam2:0.2.3] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/cam2-0.2.3.aar/f4b4eec94c3f5d0d707c48539bf52eb4/AndroidManifest.xml:27:9-77
+	android:name
+		ADDED from [com.commonsware.cwac:cam2:0.2.3] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/cam2-0.2.3.aar/f4b4eec94c3f5d0d707c48539bf52eb4/AndroidManifest.xml:27:19-74
+activity#com.commonsware.cwac.cam2.VideoRecorderActivity
+ADDED from [com.commonsware.cwac:cam2:0.2.3] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/cam2-0.2.3.aar/f4b4eec94c3f5d0d707c48539bf52eb4/AndroidManifest.xml:28:9-84
+	android:name
+		ADDED from [com.commonsware.cwac:cam2:0.2.3] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/cam2-0.2.3.aar/f4b4eec94c3f5d0d707c48539bf52eb4/AndroidManifest.xml:28:19-81
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Android_Apps/RuntimePermissions/app/src/main/AndroidManifest.xml:2:1-31:12 reason: com.commonsware.cwac.cam2 requested WRITE_EXTERNAL_STORAGE
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-compat:25.3.0] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/58f7fcc8eec85a2d138da7ca5529e9c7/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-compat:25.3.0] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/58f7fcc8eec85a2d138da7ca5529e9c7/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-compat:25.3.0] /Users/Waseem/Downloads/gradle-4.2.1/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/58f7fcc8eec85a2d138da7ca5529e9c7/AndroidManifest.xml:26:9-47
